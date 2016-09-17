@@ -1,6 +1,7 @@
 # bicis-locas-lvl2
 
 ![](http://2.1m.yt/oLTRLLm.jpg)
+
 CON EL SPAN NOS APARECE EL MENSAJE ("Ingresar su nombre"), TAMBIEN HACEMOS LA MISMA FUNCION 
 
 PARA EL APELLIDO, EMAIL Y CONTRASEÑA
